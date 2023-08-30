@@ -1,0 +1,8 @@
+{
+  "appId": "com.linkedindownloader.app",
+  "appName": "linked-downloader",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  }
+}
